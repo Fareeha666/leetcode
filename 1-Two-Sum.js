@@ -1,7 +1,7 @@
 //法一： 双重for循环 Runtime：199ms
 var twoSum = function(nums, target) {
 
-	var numsLen = nums.length;
+    var numsLen = nums.length;
 
     for (var i = 0; i< numsLen; i++) {
     	for (var j = i + 1; j < numsLen; j++) {
