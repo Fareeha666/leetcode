@@ -55,21 +55,21 @@ var addTwoNumbers = function (l1, l2) {
 
 	while (l1 || l2) {
 
-			cur = prev.next || new ListNode(0);
-			prev.next = cur;
-			cur.val += (l1 ? l1.val : 0);
-			cur.val += (l2 ? l2.val : 0);
+		cur = prev.next || new ListNode(0);
+		prev.next = cur;
+		cur.val += (l1 ? l1.val : 0);
+		cur.val += (l2 ? l2.val : 0);
 
-			if (cur.val >= 10) {
-				cur.val -= 10;
-				cur.next = new ListNode(1);
-			}
+		if (cur.val >= 10) {
+			cur.val -= 10;
+			cur.next = new ListNode(1);
+		}
 
-			prev = cur;
-			l1 = l1 ? l1.next : 0;
-			l2 = l2 ? l2.next : 0;
+		prev = cur;
+		l1 = l1 ? l1.next : 0;
+		l2 = l2 ? l2.next : 0;
 
-		}	
+	}	
 
 	res = head.next;
 
