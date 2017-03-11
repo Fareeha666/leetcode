@@ -1,4 +1,5 @@
-//法一： 双重for循环 Runtime：199ms
+//法一： 双重for循环 
+//Runtime：199ms
 var twoSum = function(nums, target) {
 
     var numsLen = nums.length;
@@ -15,6 +16,7 @@ var twoSum = function(nums, target) {
 
 //法二： 单for循环，求差值，存数组
 //将差值作为临时数组的index，将该值的index作为对应值
+//Runtime: 105ms
 var twoSum = function(nums, target) {
 
     var temp = [];
