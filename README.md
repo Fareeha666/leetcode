@@ -10,5 +10,7 @@ leetcode solutions (Javascript)
 |3       | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/3-Longest-Substring-Without-Repeating-Characters.js) | Medium |
 |4*      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/4-Median-of-Two-Sorted-Arrays.js) |Hard|
 |7       | [Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/7-Reverse-Integer.js) | Easy |
+|136     | [Single Number](https://leetcode.com/problems/single-number/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/136-Single-Number.js) | Easy |
+|283     | [Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/283-Move-Zeroes.js) | Easy |
 |344     | [Reverse String](https://leetcode.com/problems/reverse-string/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/344-Reverse-String.js) | Easy |
 |412     | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description) | [JavaScript](https://github.com/Fareeha666/leetcode/blob/master/412-Fizz-Buzz.js) | Easy |
