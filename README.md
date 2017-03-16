@@ -10,7 +10,7 @@ leetcode solutions (Javascript)
 |3       | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/3-Longest-Substring-Without-Repeating-Characters.js) | Medium |
 |4*      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/4-Median-of-Two-Sorted-Arrays.js) |Hard|
 |7       | [Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/7-Reverse-Integer.js) | Easy |
-|104     | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/104-Maximum-Depth-of Binary-Tree.js) | Easy |
+|104     | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/104-Maximum-Depth-of-Binary-Tree.js) | Easy |
 |136     | [Single Number](https://leetcode.com/problems/single-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/136-Single-Number.js) | Easy |
 |283     | [Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/283-Move-Zeroes.js) | Easy |
 |344     | [Reverse String](https://leetcode.com/problems/reverse-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/344-Reverse-String.js) | Easy |
