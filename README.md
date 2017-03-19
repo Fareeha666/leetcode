@@ -16,4 +16,5 @@ leetcode solutions (Javascript)
 |136     | [Single Number](https://leetcode.com/problems/single-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/136-Single-Number.js) | Easy |
 |283     | [Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/283-Move-Zeroes.js) | Easy |
 |344     | [Reverse String](https://leetcode.com/problems/reverse-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/344-Reverse-String.js) | Easy |
+|387     | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/387-First-Unique-Character-in-a-String.js) | Easy |
 |412     | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/412-Fizz-Buzz.js) | Easy |

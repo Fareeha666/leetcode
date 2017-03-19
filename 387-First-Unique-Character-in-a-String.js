@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
-	<script>
+/**
+ * @param {string} s
+ * @return {number}
+ */
+
+//Runtime: 165ms
 var firstUniqChar = function(s) {
     for (var i = 0; i < s.length; i++) {
         if (s.indexOf(s[i]) === s.lastIndexOf(s[i])) {
@@ -14,8 +12,3 @@ var firstUniqChar = function(s) {
     }
     return -1;
 };
-
-console.log(firstUniqChar('loveleetcode'));
-	</script>
-</body>
-</html>
