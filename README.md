@@ -14,6 +14,7 @@ leetcode solutions (Javascript)
 |121     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/121-Best-Time-to-Buy-and-Sell-Stock.js) | Easy |
 |122     | [ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/122-Best-Time-to-Buy-and-Sell-Stock-II.js) | Easy |
 |136     | [Single Number](https://leetcode.com/problems/single-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/136-Single-Number.js) | Easy |
+|171     | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/171-Excel-Sheet-Column-Number.js) | Easy |
 |283     | [Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/283-Move-Zeroes.js) | Easy |
 |344     | [Reverse String](https://leetcode.com/problems/reverse-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/344-Reverse-String.js) | Easy |
 |387     | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/387-First-Unique-Character-in-a-String.js) | Easy |

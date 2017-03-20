@@ -6,16 +6,20 @@
 </head>
 <body>
 	<script>
-var firstUniqChar = function(s) {
-    for (var i = 0; i < s.length; i++) {
-        if (s.indexOf(s[i]) === s.lastIndexOf(s[i])) {
-           return i;
-        }
+var titleToNumber = function(s) {
+    var letters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'],
+        length = s.length,
+        carry = 0,
+        res = 0;
+    for (var i = length - 1; i >= 0; i--) {
+        res += (letters.indexOf(s[i]) + 1) * Math.pow(26, carry); 
+        carry ++;
     }
-    return -1;
+    
+    return res;
 };
 
-console.log(firstUniqChar('loveleetcode'));
+console.log(titleToNumber('AB'));
 	</script>
 </body>
 </html>
