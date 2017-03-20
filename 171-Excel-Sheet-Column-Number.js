@@ -19,7 +19,7 @@ var titleToNumber = function(s) {
 };
 
 //法二：
-//Runtime：
+//Runtime： 152ms
 //直接用charCodeAt()返回字符编码
 var titleToNumber = function(s) {
     var length = s.length,

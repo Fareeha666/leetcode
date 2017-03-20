@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
-	<script>
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+
+//Runtime： 112ms
 var majorityElement = function(nums) {
     var length = nums.length,
         limit = length / 2,
@@ -21,7 +19,3 @@ var majorityElement = function(nums) {
         }
     }
 };
-console.log(majorityElement([1]));
-	</script>
-</body>
-</html>

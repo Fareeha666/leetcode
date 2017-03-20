@@ -14,6 +14,7 @@ leetcode solutions (Javascript)
 |121     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/121-Best-Time-to-Buy-and-Sell-Stock.js) | Easy |
 |122     | [ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/122-Best-Time-to-Buy-and-Sell-Stock-II.js) | Easy |
 |136     | [Single Number](https://leetcode.com/problems/single-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/136-Single-Number.js) | Easy |
+|169     | [Majority Element](https://leetcode.com/problems/majority-element/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/169-Majority-Element.js) | Easy |
 |171     | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/171-Excel-Sheet-Column-Number.js) | Easy |
 |237     | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/237-Delete-Node-in-a-Linked-List.js) | Easy |
 |283     | [Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/283-Move-Zeroes.js) | Easy |
