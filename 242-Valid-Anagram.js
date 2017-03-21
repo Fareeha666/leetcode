@@ -1,11 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
-	<script>
+/**
+ * @param {string} s
+ * @param {string} t
+ * @return {boolean}
+ */
+
+//Runtime: 139ms
+var isAnagram = function(s, t) {
+    if (s.length !== t.length) {
+        return false;
+    } else {
+       var newS = s.split('').sort().join(''),
+       	   newT = t.split('').sort().jion('');
+       return newS === newT;
+};
+
+
+//Runtime: 129ms
+//不拼成字符串更快一点？？？
 var isAnagram = function(s, t) {
     if (s.length !== t.length) {
         return false;
@@ -22,7 +33,3 @@ var isAnagram = function(s, t) {
         return true;
     }
 };
-console.log(isAnagram('ab','ba'));
-	</script>
-</body>
-</html>
