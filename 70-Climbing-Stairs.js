@@ -4,6 +4,7 @@
  */
 
 //Runtime: 96ms
+//例：到3必先到1或2，到4必先到3或2……推出，到n必先到n-1或n-2
 var climbStairs = function(n) {
     var s = {};
     s[1] = 1;
