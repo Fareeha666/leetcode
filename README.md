@@ -10,6 +10,7 @@ leetcode solutions (Javascript)
 |3       | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/3-Longest-Substring-Without-Repeating-Characters.js) | Medium |
 |4*      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/4-Median-of-Two-Sorted-Arrays.js) |Hard|
 |7       | [Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/7-Reverse-Integer.js) | Easy |
+|53      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/53-Maximum-Subarray.js) | Easy |
 |70      | [Submission Details](https://leetcode.com/problems/climbing-stairs/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/70-Climbing-Stairs.js) | Easy |
 |104     | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/104-Maximum-Depth-of-Binary-Tree.js) | Easy |
 |121     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/121-Best-Time-to-Buy-and-Sell-Stock.js) | Easy |
