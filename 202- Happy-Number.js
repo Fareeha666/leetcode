@@ -1,17 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
-<script>
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+
+//Runtime: 145ms
 var isHappy = function(n) {
     var set = new Set(),
         cur = n,
         sum = 0;
-    while (sum !== 1) {
-        
+    while (sum !== 1) { 
         sum = 0;
         while (cur) {
             sum += Math.pow(cur % 10, 2);
@@ -26,9 +23,3 @@ var isHappy = function(n) {
     }
     return true;
 };
-console.log(isHappy(19));
-
-</script>
-
-</body>
-</html>
