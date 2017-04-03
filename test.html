@@ -6,27 +6,25 @@
 </head>
 <body>
 	<script>
-var containsDuplicate = function(nums) {
-    var save = {},
-        length = nums.length;
-    if (length < 2) {
-        return false;
-    } else {
-        for (var i = 0; i < length; i++) {
-            if (save[nums[i]] !== undefined) {
-                return true;
-            } else {
-                save[nums[i]] = nums[i];
-            }
-        }
-        return false;
-    }
-};
-console.log(containsDuplicate([3,1]));
+    var findComplement = function(num) {
+        var num10 = num,
+            arr2 = num10.toString(2).split(''),
+            numCom;
+            console.log(arr2);
+            arr2.forEach(function (val, ind) {
+               if (val === '1') {
+                   arr2[ind] = '0';
+               } else {
+                arr2[ind] = '1';
+               }
+        });
+            console.log(arr2);
+        numCom = parseInt(arr2.join(''), 2);
+        return numCom;
+    };
 
-var obj = {};
-console.log(obj[a]);
+    console.log(findComplement(5));
+
 	</script>
-}
 </body>
 </html>

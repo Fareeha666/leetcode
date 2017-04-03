@@ -25,3 +25,4 @@ leetcode solutions (Javascript)
 |344     | [Reverse String](https://leetcode.com/problems/reverse-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/344-Reverse-String.js) | Easy |
 |387     | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/387-First-Unique-Character-in-a-String.js) | Easy |
 |412     | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/412-Fizz-Buzz.js) | Easy |
+|476     | [Number Complement](https://leetcode.com/problems/number-complement/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/476-Number-Complement.js) | Easy |
