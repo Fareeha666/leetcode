@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
 	<script>
     var findComplement = function(num) {
         var num10 = num,
@@ -26,5 +27,32 @@
     console.log(findComplement(5));
 
 	</script>
+=======
+<script>
+var isHappy = function(n) {
+    var set = new Set(),
+        cur = n,
+        sum = 0;
+    while (sum !== 1) {
+        
+        sum = 0;
+        while (cur) {
+            sum += Math.pow(cur % 10, 2);
+            cur = parseInt(cur / 10);
+        }
+        if (set.has(sum)) {
+            return false;
+        } else {
+            set.add(sum);
+            cur = sum;
+        }
+    }
+    return true;
+};
+console.log(isHappy(19));
+
+</script>
+
+>>>>>>> 2f3047488745eea5bde205bc5fbf51e091028aa2
 </body>
 </html>

@@ -18,6 +18,7 @@ leetcode solutions (Javascript)
 |136     | [Single Number](https://leetcode.com/problems/single-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/136-Single-Number.js) | Easy |
 |169     | [Majority Element](https://leetcode.com/problems/majority-element/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/169-Majority-Element.js) | Easy |
 |171     | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/171-Excel-Sheet-Column-Number.js) | Easy |
+|202     | [Submission Details](https://leetcode.com/problems/happy-number/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/202- Happy-Number.js) | Easy |
 |217     | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/217-Contains-Duplicate.js) | Easy |
 |237     | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/237-Delete-Node-in-a-Linked-List.js) | Easy |
 |242     | [Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description) | [solution](https://github.com/Fareeha666/leetcode/blob/master/242-Valid-Anagram.js) | Easy |
